@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">L14_Curd_Database</string>
+    <string name="button">Button</string>
+    <string name="name">Name</string>
+    <string name="textview">TextView</string>
+    <string name="add_product">Add Product</string>
+
+    <string name="update_product">Update Product</string>
+    <string name="all_products">All Products</string>
+    <string name="delete_product">Delete Product</string>
+    <string name="enter_product_name">Enter product name</string>
+    <string name="in_case_of_delete_and_update_type_id_in_the_above_id_of_the_product_box">In case of delete and update type id in the above id of the product box</string>
+    <string name="enter_product_price">Enter product price</string>
+    <string name="enter_product_quantity">Enter product quantity</string>
+    <string name="enter_product_id">Enter product id</string>
+
+</resources>
